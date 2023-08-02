@@ -3,6 +3,10 @@ table,td,th{
     text-align: center;
 }
 
+td{
+    background-color: yellow;
+}
+
 .cns{
     background-color: skyblue;
 }
